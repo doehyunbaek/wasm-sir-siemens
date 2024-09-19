@@ -1,0 +1,36 @@
+              This is fault file including version total and test case total.
+32   versions
+5542   test cases
+        version no       code line of fault
+          v1                  107         ##Logic  
+          v2                  111         ##Missing
+          v3                  494         ##Logic
+          v4                  494         ##Logic
+          v5                  118         ##Logic
+          v6                  315,319     ##Logic  ##Logic
+          v7                  176         ##Mutation
+          v8                  176         ##Logic
+          v9                  115         ##Logic
+          v10                 115,117     ##Logic  ##Logic
+          v11                 115,116     ##Mutation  ##Mutation
+          v12                 143,146,148,149,168,207,209,211,227,229,235,273,276,283  ##Define
+          v13                 503         ##Added
+          v14                 370         ##Logic
+          v15                 241         ##Logic
+          v16                 176         ##Logic
+          v17                  75         ##Mutation
+          v18                 372         ##Logic
+          v19                 38,43,44,45,514,517   ##Logic 
+          v20                  75         ##Mutation
+          v21                 142,145,147,148,167,206,208,210,226,228,234,272,275,282,44,55,209  ##Define  ##Logic  ##Logic  ##Logic
+          v22                 140,141,144   ##Logic  ##Missing  ##Added
+          v23                  74          ##Logic 
+          v24                  362         ##Missing
+          v25                  362         ##Logic 
+          v26                  370         ##Logic 
+          v27                  182,183     ##Logic  ##Logic
+          v28                  176         ##Logic
+          v29                  176         ##Logic
+          v30                  176         ##Logic
+          v31                  370         ##Logic
+          v32                  115,117     ##Logic  ##Logic

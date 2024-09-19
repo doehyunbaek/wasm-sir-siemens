@@ -1,0 +1,27 @@
+              This is fault file including version total and test case total.
+23   versions
+1052   test cases
+        version no       code line of fault
+          v1                  342         ##MissPrev
+          v2                  85          ##Logic
+          v3                  75          ##Logic
+          v4                  233         ##Logic
+          v5                  105         ##Logic
+          v6                  55,57,65   ##Define  ##DefineVaria  ##DefineVaria
+          v7                  378         ##Logic
+          v8                  201         ##Logic
+          v9                  106         ##Logic
+          v10                 330,349,352,372     ##Varia  ##Varia  ##Varia  ##Varia
+          v11                 198         ##Logic
+          v12                 177         ##Logic
+          v13                 394         ##Logic
+          v14                 75          ##Logic
+          v15                 200         ##Logic
+          v16                 99          ##Logic
+          v17                 223         ##Logic
+          v18                 308         ##Logic
+          v19                 55,57,65         ##define  ##DefineVaria  ##DefineVaria
+          v20                 308         ##Logic
+          v21                 75          ##define
+          v22                 352         ##Logic
+          v23                 215         ##Logic

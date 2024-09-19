@@ -1,0 +1,45 @@
+              This is fault file including version total and test case total.
+41   versions
+1608   test cases
+        version no       code line of fault
+          v1                  75          ##Logic
+          v2                  63          ##Mutation
+          v3                  120         ##Logic
+          v4                  79          ##Logic
+          v5                  118         ##Logic
+          v6                  104         ##Mutation
+          v7                  51          ##Mutation
+          v8                  53          ##Mutation
+          v9                  89          ##Mutation
+          v10                 105,111     ##Logic   ##Logic
+          v11                 106,113,136,141     ##Logic   ##Logic  ##Logic  ##Missing
+          v12                 118         ##Mutation
+          v13                 118         ##Define
+          v14                 118         ##Define
+          v15                 79,93,118   ##Define  ##Define  ##Logic
+          v16                 50          ##Logic 
+          v17                 51          ##Logic 
+          v18                 52          ##Logic 
+          v19                 53          ##Logic 
+          v20                 72          ##Logic 
+          v21                 72          ##Logic 
+          v22                 72          ##Logic 
+          v23                 90          ##Logic 
+          v24                 90          ##Logic 
+          v25                 97          ##Logic 
+          v26                 118         ##Logic 
+          v27                 118         ##Logic 
+          v28                 63          ##Logic
+          v29                 63          ##Logic
+          v30                 63          ##Logic
+          v31                 76,81,128     ##Added  ##Added  ##Logic
+          v32                 94,99,129     ##Added  ##Added  ##Logic
+          v33                 50,51,52,53   ##Logic  ##Logic  ##Logic  ##Logic
+          v34                  124         ##Logic 
+          v35                  63          ##Logic
+          v36                  136         ##Define
+          v37                  58          ##Logic
+          v38                  53,58       ##Variable  ##Variable
+          v39                  97          ##Logic 
+          v40                  75,126      ##Logic  ##Logic
+          v41                  79          ##Logic

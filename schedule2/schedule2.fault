@@ -1,0 +1,14 @@
+              This is fault file including version total and test case total.
+10   versions
+2710   test cases
+        version no       code line of fault
+          v1                  136          ##Missing
+          v2                  296          ##Missing
+          v3                  293          ##Missing
+          v4                  93           ##Missing
+          v5                  111          ##Added
+          v6                  77           ##ULogic
+          v7                  292          ##Mutation
+          v8                  277          ##Missing
+          v9                  0              ##NoFailTestcase
+          v10                  28           ##Logic

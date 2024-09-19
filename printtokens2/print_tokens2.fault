@@ -1,0 +1,14 @@
+              This is fault file including version total and test case total.
+10   versions
+4115   test cases
+        version no       code line of fault
+          v1                  189           ##Missing
+          v2                  193           ##Missing
+          v3                  176           ##Missing
+          v4                  164           ###Logic
+          v5                  386           ##Logic
+          v6                  358           ##Logic
+          v7                  218           ##Logic
+          v8                  225           ##Logic
+          v9                  218           ##Logic
+          v10                 380           ##Logic
